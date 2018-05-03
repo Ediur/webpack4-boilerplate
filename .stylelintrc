@@ -1,0 +1,18 @@
+{
+  "extends": "stylelint-config-recommended",
+  "rules": {
+    "at-rule-no-unknown": null,
+    "block-no-empty": true,
+    "color-hex-case": "lower",
+    "color-hex-length": "short",
+    "color-no-invalid-hex": true,
+    "declaration-colon-space-after": "always",
+    "max-empty-lines": 2,
+    "string-quotes": "single",
+    "declaration-colon-newline-after": null,
+    "font-family-name-quotes": null,
+    "number-leading-zero": "never",
+    "value-list-comma-newline-after": null,
+    "max-nesting-depth": 2
+  }
+}
